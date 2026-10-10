@@ -1,9 +1,9 @@
 # Genesis 2026: Ideathon
-## 12. Research Basis
+## Research Basis
 
 We reviewed the literature using Scopus AI and LeapSpace across four searches: (1) mental health of college students, (2) students expressing emotions to chatbots, (3) privacy risks of emotional-support chatbots, and (4) campus mental health apps with counsellor risk triage. This evidence shaped each HAVEN design decision.
 
-### 12.1 What the research shows
+### What the research shows
 
 **The problem is large and persistent.**
 - Studies report depression and anxiety in roughly 28% to over 60% of college students, and suicidal thoughts in about 13% to 19%, including Indian samples (Bhat et al., 2018; Cherian et al., 2025).
@@ -33,7 +33,7 @@ We reviewed the literature using Scopus AI and LeapSpace across four searches: (
 - Students are more willing to use tools that feel confidential, but many raise privacy concerns about apps and data use, and mistrust of the institution can reduce uptake (Melcher & Torous, 2020; Kodish et al., 2023).
 - In one student survey, 46.0% had at least one privacy, confidentiality, or data-use concern (Soneson et al., 2025).
 
-### 12.2 How the evidence shaped HAVEN
+### How the evidence shaped HAVEN
 
 | Finding | HAVEN design decision |
 |---|---|
@@ -46,13 +46,13 @@ We reviewed the literature using Scopus AI and LeapSpace across four searches: (
 | Passive sensing predicts stress | On-device sleep and activity signals plus a weekly check-in |
 | Privacy concerns and institutional mistrust block uptake | Raw data stays on the phone; never used for grades or discipline; aggregate insights only for groups of 20+ |
 
-### 12.3 Research gap HAVEN addresses
+### Research gap HAVEN addresses
 
 - The search found no single paper on how concerning it is when students express emotions to chatbots without realising the privacy risks. The literature covers these aspects only in parts.
 - The search found no completed, well-evaluated campus app that combines private or anonymous disclosure, strong privacy design, risk-based counsellor outreach, and measured real-world outcomes. Most work covers one piece.
 - Studies report model performance far more often than what happens after an alert, such as counsellor response time, referral completion, and false alerts. HAVEN's pilot measures exactly these (see Section 10).
 
-### 12.4 References
+### References
 
 1. Al-Zahrani, A.M. (2025). Exploring the impact of artificial intelligence chatbots on human connection and emotional support among higher education students. *SAGE Open*. https://doi.org/10.1177/21582440251340615
 2. Bhat, S.U., Amaresha, A.C., Kodancha, P., et al. (2018). Psychological distress among college students of coastal district of Karnataka: A community-based cross-sectional survey. *Asian Journal of Psychiatry*.
